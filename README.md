@@ -19,7 +19,8 @@ Para rodar o projeto localmente, siga os seguintes passos:
     ```
 3. Instale as dependências:
     ```sh
-    npm install
+    npx create-react-app .
+    npm install styled-components
     ```
 4. Inicie o servidor de desenvolvimento:
     ```sh
